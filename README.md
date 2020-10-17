@@ -7,7 +7,7 @@ https://gitcoin.co/hackathon/polkadot
 ## Challenges
 
 - ✅ [Deploying Solidity Contract On Plasm Network V1](./challenges/deploying-solidity-contract-on-plasm-network-v1/)
-- ✅ [Launch A Local Substrate Development Chain](./local-substrate-dev-chain/)
+- ✅ [Launch A Local Substrate Development Chain](./challenges/local-substrate-dev-chain/)
 - ✅ [Run A Private Substrate Network](./challenges/run-a-private-substrate-network/)
 - ✅ [Play With Westend](./challenges/play-with-westend/)
 - ✅ [Set An Identity On Kusama Or Polkadot's Development Version](./challenges/id-dev-version/)
