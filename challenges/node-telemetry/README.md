@@ -1,6 +1,7 @@
 # Run A Kusama Or Polkadot Node And Add It To Telemetry
 
 - Link: https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/12/100023938
+- Status: Submitted [link](https://github.com/Hugoo/polkadot-hackathon/tree/main/challenges/node-telemetry) ✅
 
 # Result
 
