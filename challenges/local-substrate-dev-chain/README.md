@@ -1,6 +1,7 @@
 # Launch A Local Substrate Development Chain
 
-https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17/100023943
+- Link: https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17/100023943
+- Status: Submitted [link](https://github.com/Hugoo/polkadot-hackathon/blob/main/challenges/local-substrate-dev-chain/proof.png) ✅
 
 # Result
 

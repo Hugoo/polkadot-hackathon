@@ -1,8 +1,7 @@
 # Deploying Solidity Contract On Plasm Network V1
 
-https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/6/100023960
-
-Token: PLD
+- Link: https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/6/100023960
+- Status: Submitted [link](https://raw.githubusercontent.com/Hugoo/polkadot-hackathon/main/challenges/deploying-solidity-contract-on-plasm-network-v1/contractAddress.md) ✅
 
 ## Notes
 
@@ -17,9 +16,9 @@ The files generated with [latest docker image](https://hub.docker.com/layers/hyp
 
 ## Results
 
-Contract address: `0x18d86db0846c2f0a53bd3858e4db2ea6ea9332551feabd14e03765687f542370`
-Deployment instance: `YZQcYXLyyRdmjzfgSattE9RRgBtfyTRkYV6ae69NECKiXd8`
-Owner: `5CobW5xfjXPzUKmeNmJrcSvdj7UkFy11JX9S6zHVRYeHt1Ui`
+- Contract address: `0x18d86db0846c2f0a53bd3858e4db2ea6ea9332551feabd14e03765687f542370`
+- Deployment instance: `YZQcYXLyyRdmjzfgSattE9RRgBtfyTRkYV6ae69NECKiXd8`
+- Owner: `5CobW5xfjXPzUKmeNmJrcSvdj7UkFy11JX9S6zHVRYeHt1Ui`
 
 ### Ressources:
 
