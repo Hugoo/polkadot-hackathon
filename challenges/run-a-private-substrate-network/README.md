@@ -1,6 +1,7 @@
 # Run A Private Substrate Network
 
 - Link: https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942
+- Status: Submitted [link](https://raw.githubusercontent.com/Hugoo/polkadot-hackathon/main/challenges/run-a-private-substrate-network/run.png) ✅
 
 # Result
 
