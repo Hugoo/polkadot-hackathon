@@ -1,0 +1,16 @@
+{
+  "name": "pkd-cli",
+  "version": "1.0.0",
+  "description": "- Link: https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/13/100023939",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Hugoo",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^2.2.1",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3"
+  }
+}

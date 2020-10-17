@@ -11,7 +11,7 @@ https://gitcoin.co/hackathon/polkadot
 - ✅ [Run A Private Substrate Network](./challenges/run-a-private-substrate-network/)
 - ✅ [Play With Westend](./challenges/play-with-westend/)
 - ✅ [Set An Identity On Kusama Or Polkadot's Development Version](./challenges/id-dev-version/)
-- 🚧 [Back-End Javascript](./challenges/backend-javascript/)
+- ✅ [Back-End Javascript](./challenges/backend-javascript/)
 - 🚧 [Front-End Javascript](./challenges/front-end-javascript/)
 - 🚧 [Deploy On Moonbase Alpha Using Truffle](./challenges/deploy-on-moonbase-alpha-using-truffle/)
 - 🚧 [Run A Kusama Or Polkadot Node And Add It To Telemetry](./challenges/node-telemetry/)
