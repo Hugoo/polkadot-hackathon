@@ -1,6 +1,7 @@
 # Back-End Javascript
 
 - Link: https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/13/100023939
+- Status: Submitted [link](https://github.com/Hugoo/polkadot-hackathon/tree/main/challenges/backend-javascript) ✅
 
 # How to use pkd-cli
 
