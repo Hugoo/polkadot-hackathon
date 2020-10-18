@@ -17,7 +17,6 @@
 - Purge: `./target/release/node-moonbeam purge-chain --dev`
 - Supply 8M: `8000000000000000000000000`
 - Token: `CRPE`
--
 
 ## Ressources
 
