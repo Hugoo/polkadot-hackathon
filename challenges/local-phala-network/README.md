@@ -1,6 +1,7 @@
 # Build And Run A Local Phala Network
 
 - Link: https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945
+- Status: Submitted [link](https://github.com/Hugoo/polkadot-hackathon/tree/main/challenges/local-phala-network) ✅
 
 # Result
 
