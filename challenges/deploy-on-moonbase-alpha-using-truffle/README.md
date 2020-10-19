@@ -1,7 +1,7 @@
 # Deploy On Moonbase Alpha Using Truffle
 
 - Link: https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953
-- Status: Submitted [link](./addresses.txt)
+- Status: Submitted [link](./addresses.txt) ✅
 
 # Result
 

@@ -33,6 +33,14 @@ Using lastest nightly was causing compile issues for Substrate:
 
 I had to downgrade: https://github.com/paritytech/substrate/issues/7150#issuecomment-695344950
 
+```
+rustup toolchain list
+
+rustup toolchain default 1.45.1-x86_64-apple-darwin
+rustup target add wasm32-unknown-unknown --toolchain nightly-2020-08-19-x86_64-unknown-linux-gnu
+rustup toolchain install nightly-2020-08-19-x86_64-unknown-linux-gnu
+```
+
 ## Ressources
 
 - https://substrate.dev/docs/en/tutorials/create-your-first-substrate-chain/
