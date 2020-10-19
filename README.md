@@ -1,8 +1,6 @@
-# polkadot-hackathon
+# Polkadot Hackathon
 
-Repo for the Gitcoin / Polkadot hackathon:
-
-https://gitcoin.co/hackathon/polkadot
+[@Hugoo](https://github.com/Hugoo)'s repo for the Gitcoin / Polkadot hackathon: https://gitcoin.co/hackathon/polkadot
 
 ## Challenges
 
@@ -15,4 +13,5 @@ https://gitcoin.co/hackathon/polkadot
 - ✅ [Run A Kusama Or Polkadot Node And Add It To Telemetry](./challenges/node-telemetry/)
 - ✅ [Front-End Javascript](./challenges/front-end-javascript/)
 - ✅ [Using Remix And MetaMask On Moonbeam](./challenges/remix-metamask-moonbeam/)
+- ✅ [Build And Run A Local Phala Network](./challenges/local-phala-network/)
 - 🚧 [Deploy On Moonbase Alpha Using Truffle](./challenges/deploy-on-moonbase-alpha-using-truffle/)
