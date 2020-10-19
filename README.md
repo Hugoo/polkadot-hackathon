@@ -14,4 +14,4 @@
 - ✅ [Front-End Javascript](./challenges/front-end-javascript/)
 - ✅ [Using Remix And MetaMask On Moonbeam](./challenges/remix-metamask-moonbeam/)
 - ✅ [Build And Run A Local Phala Network](./challenges/local-phala-network/)
-- 🚧 [Deploy On Moonbase Alpha Using Truffle](./challenges/deploy-on-moonbase-alpha-using-truffle/)
+- ✅ [Deploy On Moonbase Alpha Using Truffle](./challenges/deploy-on-moonbase-alpha-using-truffle/)
