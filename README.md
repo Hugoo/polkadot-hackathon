@@ -15,3 +15,4 @@
 - ✅ [Using Remix And MetaMask On Moonbeam](./challenges/remix-metamask-moonbeam/)
 - ✅ [Build And Run A Local Phala Network](./challenges/local-phala-network/)
 - ✅ [Deploy On Moonbase Alpha Using Truffle](./challenges/deploy-on-moonbase-alpha-using-truffle/)
+- ✅ [Forkless Upgrades](./challenges/forkless-upgrades/)
