@@ -1,6 +1,7 @@
 # FRAME Identity: Set An Identity On A Local --Dev Chain
 
 - Link: https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/10/100023936
+- Status: Submitted [link](https://raw.githubusercontent.com/Hugoo/polkadot-hackathon/main/challenges/frame-identity-local/local-id.png) ✅
 
 # Result
 
