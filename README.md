@@ -17,7 +17,7 @@
 - ✅ [Deploy On Moonbase Alpha Using Truffle](./challenges/deploy-on-moonbase-alpha-using-truffle/)
 - ✅ [Forkless Upgrades](./challenges/forkless-upgrades/)
 - ✅ [FRAME Identity: Set An Identity On A Local --Dev Chain](./challenges/frame-identity-local/)
-- 🚧 [Smart Contracts - Write An ERC-20 Smart Contract With Ink!](./challenges/erc20-with-ink/)
+- ✅ [Smart Contracts - Write An ERC-20 Smart Contract With Ink!](./challenges/erc20-with-ink/)
 - 🚧 [FRAME Multisig](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934)
 - 🚧 [FRAME Development](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933)
 - 🚧 [Deploying An Auction Solidity Contract On Plasm Network](https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959)
