@@ -19,7 +19,7 @@ Code imported from: https://github.com/PureStake/moonbeam/tree/master/tools/truf
 - compile: `npm run compile`
 - deploy: `npm run migrate:alpha`
 
-## Resources
+# Resources
 
 - https://docs.moonbeam.network/getting-started/local-node/using-truffle/
 - https://docs.moonbeam.network/getting-started/testnet/connect/

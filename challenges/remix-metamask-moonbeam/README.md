@@ -18,7 +18,7 @@
 - Supply 8M: `8000000000000000000000000`
 - Token: `CRPE`
 
-## Ressources
+# Resources
 
 - https://docs.moonbeam.network/getting-started/local-node/setting-up-a-node/
 - https://docs.moonbeam.network/getting-started/local-node/using-metamask/

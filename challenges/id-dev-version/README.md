@@ -8,6 +8,6 @@
 ![id](./id.png "id")
 ![network](./network.png "network")
 
-# Ressources
+# Resources
 
 - https://wiki.polkadot.network/docs/en/learn-identity

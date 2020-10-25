@@ -16,7 +16,7 @@
 - Frontend\*\*: [`./frontend`](./frontend/)
 - Ink! Contract\*\*\*: [`./contract`](./contract/)
 
-# Ressources
+# Resources
 
 - https://substrate.dev/docs/en/tutorials/create-your-first-substrate-chain/setup
 - https://substrate.dev/docs/en/tutorials/add-contracts-pallet/#importing-the-contracts-pallet-crate

@@ -7,7 +7,7 @@
 
 ![local id](./local-id.png "local id")
 
-## Resources
+# Resources
 
 - https://github.com/paritytech/substrate/tree/master/frame/identity
 - https://github.com/paritytech/polkadot/blob/master/runtime/kusama/src/lib.rs

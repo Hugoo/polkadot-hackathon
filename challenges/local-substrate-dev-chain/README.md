@@ -41,7 +41,7 @@ rustup target add wasm32-unknown-unknown --toolchain nightly-2020-08-19-x86_64-u
 rustup toolchain install nightly-2020-08-19-x86_64-unknown-linux-gnu
 ```
 
-## Ressources
+# Resources
 
 - https://substrate.dev/docs/en/tutorials/create-your-first-substrate-chain/
 - https://github.com/paritytech/substrate/issues/7287

@@ -16,7 +16,7 @@ Node is running on a OVH VPS
 
 ![still-running](./still-running.png "Node running +24h after start")
 
-## Ressources
+# Resources
 
 - https://wiki.polkadot.network/docs/en/maintain-sync
 - https://github.com/paritytech/polkadot/#connect-to-polkadot-mainnet

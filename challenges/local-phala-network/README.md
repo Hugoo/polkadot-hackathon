@@ -24,6 +24,6 @@ source /opt/intel/sgxsdk/environment
 
 ```
 
-## Resources
+# Resources
 
 - https://wiki.phala.network/en-us/docs/run-a-local-development-network/

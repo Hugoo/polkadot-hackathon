@@ -7,6 +7,6 @@
 
 ![version](./version.png "version")
 
-## Resources
+# Resources
 
 - https://polkadot.js.org/docs/api/FAQ/#the-node-returns-a-could-not-convert-error-on-send
