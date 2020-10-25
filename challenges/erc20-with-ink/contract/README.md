@@ -3,7 +3,7 @@
 The code in this folder has been cloned from this repo: https://github.com/paritytech/ink/tree/master/examples/erc20
 
 - Contract code hash: `0xacd9ed5c537a34cd1197fafec89ed8a12ac7bbc80404b0b27f3471adb08a687b`
-- Local instance: `5DqvqdjHbDZjE9BCkN9Rs85qhqypVgaXUEegYZEpxfzcygoj`
+- Local instance: `5HPjEFcuyWzuqHKRg2Ho7jWJg3KzM4LqBB9EMB6GUPBoDZQr`
 
 # ink! code examples
 
