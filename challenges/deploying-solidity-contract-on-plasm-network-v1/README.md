@@ -20,7 +20,7 @@ docker run --rm -it -v /Users/hugoo/deploying-solidity-contract-on-plasm-network
 
 The files generated with [latest docker image](https://hub.docker.com/layers/hyperledgerlabs/solang/latest/images/sha256-1993c7d3f8703f4f60466686d1210a0296626e15f3a1604516ab5053a273a844?context=explore) was not working. The upload of the contract did not work. I had to use v0.1.3
 
-## Ressources:
+# Resources:
 
 - https://apps.plasmnet.io/#/accounts
 - https://docs.plasmnet.io/workshop-and-tutorial/solidity

@@ -12,7 +12,7 @@
 
 I had some issues with building substrate, see the other challenge [README.md](../local-substrate-dev-chain) for mor einformaiton.
 
-## Ressources
+# Resources
 
 - https://substrate.dev/docs/en/tutorials/start-a-private-network/
 - https://polkadot.js.org/apps/#/settings?rpc=ws://127.0.0.1:9944
