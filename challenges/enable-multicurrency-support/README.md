@@ -4,6 +4,11 @@
 
 I just added the `orml_tokens` pallet, not the `orml_currencies`.
 
+# Result
+
+![token](./docs/t.png "token")
+![token](./docs/t2.png "token")
+
 ## Project structure
 
 - Node\*: [`./substrate-node-template-2.0.0`](./substrate-node-template-2.0.0/)
