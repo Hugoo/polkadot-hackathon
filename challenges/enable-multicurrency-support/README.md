@@ -1,6 +1,7 @@
 # Enable Multi-Currency Support
 
 - Link: https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
+- Status: Submitted ✅
 
 I just added the `orml_tokens` pallet, not the `orml_currencies`.
 
