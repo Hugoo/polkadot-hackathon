@@ -2,13 +2,23 @@
 
 - Link: https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
 
+I just added the `orml_tokens` pallet, not the `orml_currencies`.
+
 ## Project structure
 
 - Node\*: [`./substrate-node-template-2.0.0`](./substrate-node-template-2.0.0/)
 
+Useful commands:
+
+```
+cargo check -p node-template-runtime
+```
+
 # Resources
 
 - https://github.com/open-web3-stack/open-runtime-module-library/tree/master/tokens
+- https://github.com/xlc/orml-workshop/blob/master/runtime/src/lib.rs
+- https://github.com/xlc/orml-workshop/commit/722ee66190bc4efcccdb39cf0dc2f6b49b2dc12f#diff-0ec06ea58bd455f09ce6b3bb4c2c1c0d37bda51c1e1be2151c560c9c973959ec
 
 ## Notes
 
