@@ -21,5 +21,5 @@
 15. ✅ [Enable Multi-Currency Support](./challenges/enable-multicurrency-support/)
 16. ✅ [Enable NFT Support](./challenges/enable-nft-support/)
 17. 🚧 [FRAME Multisig](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934)
-18. 🚧 [FRAME Development](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933)
+18. 🚧 [FRAME Development](./challenges/frame-development)
 19. 🚧 [Deploying An Auction Solidity Contract On Plasm Network](https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959)
