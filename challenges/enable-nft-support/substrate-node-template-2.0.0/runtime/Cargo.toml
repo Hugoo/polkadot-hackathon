@@ -51,6 +51,8 @@ sp-std = { default-features = false, version = '2.0.0' }
 sp-transaction-pool = { default-features = false, version = '2.0.0' }
 sp-version = { default-features = false, version = '2.0.0' }
 
+orml-nft = { git = "https://github.com/laminar-protocol/open-runtime-module-library.git", default-features = false }
+
 [features]
 default = ['std']
 runtime-benchmarks = [
@@ -89,4 +91,5 @@ std = [
     'sp-std/std',
     'sp-transaction-pool/std',
     'sp-version/std',
+    'orml-nft/std',
 ]
