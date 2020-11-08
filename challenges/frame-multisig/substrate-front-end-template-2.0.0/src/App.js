@@ -19,6 +19,7 @@ import Events from "./Events";
 import Interactor from "./Interactor";
 import Metadata from "./Metadata";
 import NodeInfo from "./NodeInfo";
+import MultiSig from "./MultiSig";
 
 function Main() {
   const [accountAddress, setAccountAddress] = useState(null);
@@ -74,6 +75,9 @@ function Main() {
           </Grid.Row>
           <Grid.Row stretched>
             <Balances />
+          </Grid.Row>
+          <Grid.Row stretched>
+            <MultiSig accountPair={accountPair} />
           </Grid.Row>
           <Grid.Row>
             <Interactor accountPair={accountPair} />
