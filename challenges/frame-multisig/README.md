@@ -1,8 +1,18 @@
 # Front-End Javascript
 
 - Link: https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934
+- Status: Submitted ✅
 
 # Result
+
+- Add pallet added to node
+- Add new [`MultiSig`](./substrate-front-end-template-2.0.0/src/MultiSig.js) component in frontend to perform a multisig transaction
+- Add [script](./script) to perform multisig transaction
+
+![created](./docs/created.png "created")
+![add-multi](./docs/add-multi.png "add-multi")
+![front](./docs/front.png "front")
+![script](./docs/script.gif "script")
 
 # Resources
 
