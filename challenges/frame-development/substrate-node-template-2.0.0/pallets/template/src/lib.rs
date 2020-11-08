@@ -1,5 +1,6 @@
 #![cfg_attr(not(feature = "std"), no_std)]
 
+use frame_support::codec::{Decode, Encode};
 /// Edit this file to define custom logic or remove it if it is not needed.
 /// Learn more about FRAME and the core library of Substrate FRAME pallets:
 /// https://substrate.dev/docs/en/knowledgebase/runtime/frame
@@ -18,6 +19,12 @@ pub trait Trait: frame_system::Trait {
 	type Event: From<Event<Self>> + Into<<Self as frame_system::Trait>::Event>;
 }
 
+#[derive(Encode, Decode, Debug, Default, Clone, PartialEq, Eq)]
+pub struct CovidTestResults {
+	id: u32, // The id of the COVID test
+	is_positive: bool,
+}
+
 // The pallet's runtime storage items.
 // https://substrate.dev/docs/en/knowledgebase/runtime/storage
 decl_storage! {
@@ -28,6 +35,7 @@ decl_storage! {
 		// Learn more about declaring storage items:
 		// https://substrate.dev/docs/en/knowledgebase/runtime/storage#declaring-storage-items
 		Something get(fn something): Option<u32>;
+		CovidTestResult get(fn get_covid_test_result): CovidTestResults;
 	}
 }
 
@@ -41,6 +49,7 @@ decl_event!(
 		/// Event documentation should end with an array that provides descriptive names for event
 		/// parameters. [something, who]
 		SomethingStored(u32, AccountId),
+		CovidTestResultAdded(u32, bool, AccountId),
 	}
 );
 
@@ -80,6 +89,14 @@ decl_module! {
 			// Emit an event.
 			Self::deposit_event(RawEvent::SomethingStored(something, who));
 			// Return a successful DispatchResult
+			Ok(())
+		}
+
+		#[weight = 10_000 + T::DbWeight::get().writes(1)]
+		pub fn insert_covid_test_result(origin, testResults: CovidTestResults) -> dispatch::DispatchResult {
+			let who = ensure_signed(origin)?;
+			CovidTestResult::put(testResults.clone());
+			Self::deposit_event(RawEvent::CovidTestResultAdded(testResults.id, testResults.is_positive, who));
 			Ok(())
 		}
 
