@@ -4,7 +4,7 @@
 
 ## Challenges
 
-1. ✅ [Deploying Solidity Contract On Plasm Network V1](./challenges/deploying-solidity-contract-on-plasm-network-v1/)
+1. 👌 [Deploying Solidity Contract On Plasm Network V1](./challenges/deploying-solidity-contract-on-plasm-network-v1/)
 2. ✅ [Launch A Local Substrate Development Chain](./challenges/local-substrate-dev-chain/)
 3. ✅ [Run A Private Substrate Network](./challenges/run-a-private-substrate-network/)
 4. ✅ [Play With Westend](./challenges/play-with-westend/)
@@ -18,7 +18,13 @@
 12. ✅ [Forkless Upgrades](./challenges/forkless-upgrades/)
 13. ✅ [FRAME Identity: Set An Identity On A Local --Dev Chain](./challenges/frame-identity-local/)
 14. ✅ [Smart Contracts - Write An ERC-20 Smart Contract With Ink!](./challenges/erc20-with-ink/)
-15. ✅ [Enable Multi-Currency Support](./challenges/enable-multicurrency-support/)
-16. ✅ [Enable NFT Support](./challenges/enable-nft-support/)
+15. 💰 [Enable Multi-Currency Support](./challenges/enable-multicurrency-support/)
+16. 💰 [Enable NFT Support](./challenges/enable-nft-support/)
 17. ✅ [FRAME Development](./challenges/frame-development)
 18. ✅ [FRAME Multisig](./challenges/frame-multisig)
+
+### Legend
+
+- ✅ => Challenge submitted, awaiting approval.
+- 👌 => Challenge approved, awaiting bounty payment.
+- 💰 => Bounty received.
